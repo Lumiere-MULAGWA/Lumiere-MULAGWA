@@ -6,7 +6,7 @@
 - ![logo de linkedin](https://www.linkedin.com/in/lmr-lumiere%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB-6268a1236/?originalSubdomain=cd)
 - 
 --->
-### Hi ! 👋 I'm lmr lumiere <img align="center" alt="Android" width="55" src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif" />
+### Hi ! 👋 I'm lmr lumiere   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt+"html5" height="40", width="40"/>
 
 I'm AI Developer,python developper,i'm a microsoft learn student ambassador,I love Learning, descovering and sharing about technologies
 
@@ -54,7 +54,6 @@ I am a strong believer in continuous learning, and I am always looking for ways 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" alt+"html5" height="40", width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt+"html5" height="40", width="40"/>
-  
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt+"html5" height="40", width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt+"html5" height="40", width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt+"html5" height="40", width="40"/>
