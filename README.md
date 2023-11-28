@@ -2,7 +2,7 @@
 - 👀 I’m interested in python developemnt and reseach AI
 - 🌱 I’m currently learning c++ ,python ,assembleur ,javascript 
 - 📫 How to reach
-- ![logo gmail](lumierelmr31@gmail.com)
+- !['#ffffff' gmail](lumierelmr31@gmail.com)
 - ![logo de linkedin](https://www.linkedin.com/in/lmr-lumiere%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB-6268a1236/?originalSubdomain=cd)
 - 
 
