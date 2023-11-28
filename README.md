@@ -6,8 +6,10 @@
 - ![logo de linkedin](https://www.linkedin.com/in/lmr-lumiere%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB-6268a1236/?originalSubdomain=cd)
 - 
 --->
-### Hi ! 👋 I'm lmr lumiere   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt+"html5" height="40", width="40"/>
-
+### Hi ! 👋 I'm lmr lumiere  
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt+"html5" height="40", width="40"/>
+</div>
 I'm AI Developer,python developper,i'm a microsoft learn student ambassador,I love Learning, descovering and sharing about technologies
 
 i learn ,i build and i share for inspire you
