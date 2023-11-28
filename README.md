@@ -52,8 +52,10 @@ I am a strong believer in continuous learning, and I am always looking for ways 
 ---
 
 <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" alt+"html5" height="40", width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" alt+"html5" height="40", width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" alt+"html5" height="40", width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt+"html5" height="40", width="40"/>
+  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt+"html5" height="40", width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt+"html5" height="40", width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt+"html5" height="40", width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" alt+"html5" height="40", width="40"/>
