@@ -41,7 +41,9 @@ I am a strong believer in continuous learning, and I am always looking for ways 
   </a>
   <br>
 <!--  view number  -->
-  <img src="+243851039097&style=flat-square&color=blue" alt="Whatsapp Badge"/>
+  <a href="+24351039067">
+  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    
 </div>
 
 
