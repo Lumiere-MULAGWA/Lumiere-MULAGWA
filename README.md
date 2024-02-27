@@ -41,7 +41,7 @@ I am a strong believer in continuous learning, and I am always looking for ways 
   </a>
   <br>
 <!--  view number  -->
-  <img src="https://komarev.com/ghpvc/?username=lumiere-MULAGWA&style=flat-square&color=blue" alt=""/>
+  <img src="+243851039097&style=flat-square&color=blue" alt="Whatsapp Badge"/>
 </div>
 
 
