@@ -10,6 +10,8 @@
 
 [![committers.top badge](https://user-badge.committers.top/congo_kinshasa/Lumiere-MULAGWA.svg)](https://user-badge.committers.top/congo_kinshasa/Lumiere-MULAGWA)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lumiere-MULAGWA&count_private=true&theme=material-palenight&&include_all_commits=true&hide_border=true)
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt+"html5" height="40", width="40"/>
 </div>
