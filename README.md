@@ -10,7 +10,7 @@
 
 [![committers.top badge](https://user-badge.committers.top/congo_kinshasa/Lumiere-MULAGWA.svg)](https://user-badge.committers.top/congo_kinshasa/Lumiere-MULAGWA)
 <br>
-![Your GitHub stats](https://github.com/Lumiere-MULAGWA/javascript/blob/main/index%2Cjs/api?username=lumiere-MULAGWA&show_icons=true&theme=radical)
+![Your GitHub stats](https://github.com/Lumiere-MULAGWA/javascript/blob/main/index.js/api?username=lumiere-MULAGWA&show_icons=true&theme=radical)
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt+"html5" height="40", width="40"/>
