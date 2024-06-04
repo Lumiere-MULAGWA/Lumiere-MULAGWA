@@ -11,7 +11,6 @@
 [![committers.top badge](https://user-badge.committers.top/congo_kinshasa/Lumiere-MULAGWA.svg)](https://user-badge.committers.top/congo_kinshasa/Lumiere-MULAGWA)
 <br>
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=lumiere-MULAGWA&show_icons=true&theme=radical)
-
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lumieere-MULAGWA&hide_border=true&layout=compact&count_private=true&theme=material-palenight)
 
