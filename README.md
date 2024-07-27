@@ -58,7 +58,7 @@ I am a strong believer in continuous learning, and I am always looking for ways 
 
 ### :man_technologist: About Me : 
   - Currently I'm student at esisalama
-- :telescope: I’m learning python,machine learning,c++.
+- :telescope: I’m learning python,machine learning,C,java.
 - :seedling: Exploring Technical Content Writing.
 - :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/-ail-blue?style=flat&logo=Gmail&logoColor=white)](lumierelmr31@gmail.com).
 ---
