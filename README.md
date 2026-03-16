@@ -39,22 +39,22 @@ Je crois fermement au partage des connaissances, c'est pourquoi je m'implique da
 J'adore échanger sur la tech, n'hésite pas à me contacter :
 
 <div align="center">
-<a href="https://www.linkedin.com/in/lmr-lumiere%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB-6268a1236/?originalSubdomain=cd">
+<a href="https://www.linkedin.com/in/lmr-lumiere%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB-6268a1236/?originalSubdomain=cd" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 <!--  telegram badge  -->
-  <a href="https://t.me/lmr_lumiere">
+  <a href="https://t.me/lmr_lumiere" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-red?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   
 <!--  twiter badge  -->
-  <a href="https://twitter.com/lmrlumiere">
+  <a href="https://twitter.com/lmrlumiere" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <br>
 <!--  view number  -->
-  <a href="+24351039067">
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://wa.me/+243851039067?text=bonjour lmr je voulais te contacter" target="_blank">
+  <img src="https://img.shields.io/badge/Whatsapp-green?style=for-the-badge&logo=twitter&logoColor=white" alt="whatsapp Badge"/>
 </div>
 
 ---
