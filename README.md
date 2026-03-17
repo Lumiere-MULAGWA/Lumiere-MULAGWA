@@ -4,7 +4,7 @@
 
 ### 🌟 Passionnée par l'IA & le Développement Python
 
-Je suis **AI , full-stack Developer & cybersecurity **, mais aussi **Microsoft Learn Student Ambassador**. Ma mission ? Apprendre, construire et partager pour inspirer les autres ! 🚀
+Je suis **AI , full-stack Developer & cybersecurity**, mais aussi **Microsoft Learn Student Ambassador**. Ma mission ? Apprendre, construire et partager pour inspirer les autres ! 🚀
 
 Je crois fermement au partage des connaissances, c'est pourquoi je m'implique dans la création de contenu, les conférences et l'open source.
 
