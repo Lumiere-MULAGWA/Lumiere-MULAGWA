@@ -1,6 +1,7 @@
 # Salut ! Moi c'est Lumière 👋 ✨
 
 [![Top Contributor](https://user-badge.committers.top/congo_kinshasa/Lumiere-MULAGWA.svg)](https://user-badge.committers.top/congo_kinshasa/Lumiere-MULAGWA)
+[![committers.top badge](https://user-badge.committers.top/congo_kinshasa/USERNAME.svg)](https://user-badge.committers.top/congo_kinshasa/Lumiere-MULAGWA)
 
 ### 🌟 Passionnée par l'IA & le Développement Python
 
