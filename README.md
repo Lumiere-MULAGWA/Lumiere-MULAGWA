@@ -24,78 +24,58 @@ As a **Freelance Software Engineer** and **Microsoft Learn Student Ambassador**,
 * 🎯 Always exploring new technologies and solving challenging problems
 
 ---
+## 🛠️ Tech Stack
 
-## 🛠 Tech Stack
 
-### Programming Languages
 
-<p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="45"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,kotlin,cpp,javascript,typescript" />
 </p>
 
-### AI & Data Science
 
-<p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" width="45"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,anaconda" />
 </p>
 
-* Machine Learning
-* Deep Learning
-* Computer Vision
-* Large Language Models (LLMs)
 
-### Mobile Development
 
-* Android
-* Jetpack Compose
-* Kotlin
-
-### Backend
-
-* Python
-* Django
-* FastAPI
-* REST APIs
-
-### Cloud & DevOps
-
-<p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" width="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" width="45"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,firebase" />
 </p>
 
----
 
-## 🌱 Currently Learning
 
-* Artificial Intelligence
-* Machine Learning
-* Cybersecurity
-* C++
-* Java
-* Assembly Language
-* JavaScript
-* Technical Writing
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs,express" />
+</p>
 
----
 
-## 🚀 Current Focus
 
-I'm currently working on projects involving:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
+</p>
 
-* 🤖 Artificial Intelligence
-* 📱 Mobile Development
-* 🔐 Cybersecurity
-* 🧠 Computer Vision
-* 📊 Machine Learning
-* 🌐 Full-Stack Web Development
+
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,firebase" />
+</p>
+
+
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=azure,docker,linux,ubuntu,git,github,githubactions" />
+</p>
+
+
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,androidstudio,postman" />
+</p>
+
+
+
+<p align="center"> <img src="https://skillicons.dev/icons?i=rust,go,cpp,aws" /> <br><br> <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo"/> </p>
 
 ---
 
