@@ -2,7 +2,7 @@
 
 [![Top Contributor](https://user-badge.committers.top/congo_kinshasa/Lumiere-MULAGWA.svg)](https://user-badge.committers.top/congo_kinshasa/Lumiere-MULAGWA)
 
-### 🚀 AI Engineer • Full-Stack Developer • Cybersecurity Enthusiast • Microsoft Learn Student Ambassador
+### 🚀 AI Engineer • Full-Stack Developer • Cybersecurity Enthusiast • OpenSource Enthusiast • Microsoft Student Ambassador
 
 I'm passionate about building intelligent software, solving real-world problems with Artificial Intelligence, and creating impactful open-source projects.
 
